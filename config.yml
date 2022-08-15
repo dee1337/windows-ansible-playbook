@@ -44,7 +44,7 @@ choco_installed_packages:
   - 7zip
   - awscli
   - Firefox
-  - Brave
+  - brave
   - cmder
   - git
   - golang
@@ -61,6 +61,7 @@ install_fonts: true
 installed_nerdfonts:
   - FiraCode
   - FantasqueSansMono
+  - Meslo LGM NF
 
 install_ohmyposh: true
 
